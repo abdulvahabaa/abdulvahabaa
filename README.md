@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I’m self taught MERN full stack developer<br>🤝 I’m looking for a good job in IT  <br>🌱 I’m currently trainee at Brototype<br>💬 Ask me about in LinkedIn<br>⚡ Fun fact I don't have a Degree 
+🐱‍💻 I'm Certified Ethical Hacker(CEHv11) From Ec-council<br>🏁 I’m self taught MERN full stack developer<br>🤝 I’m looking for a good IT job as a DEVELOPER <br>🌱 I’m currently trainee at Brototype<br>💬 Ask me about in LinkedIn<br>⚡ Fun fact I don't have a Degree 
 
 
 ## 🌐 Socials:

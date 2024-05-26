@@ -8,7 +8,7 @@
 
 #### **Abdul Vahab AA**, Immersive Software Engineer, Backend Developer Node.js & GoLang, Full Stack Developer, Web Developer, Certified Ethical Hacker.
 
-<img src="animated/light_1.gif" height="20px" /> Seasoned professional, forward looking software engineer with 2+ years of experience in creating and executing innovative solutions in immersive field to enhance business productivity. Highly experienced in Backend Web Development and related technologies. Completed 3+ client projects in immersive technologies. Consistently recognized for the contributions in immersive sector and web developments. Skilled at coordinating cross functional teams in a fast paced deadline driven environment.
+<img src="animated/light_1.gif" height="20px" /> Seasoned professional, forward-looking software engineer with 2+ years of experience in creating and executing innovative solutions in immersive fields to enhance business productivity. Highly experienced in Backend Web Development and related technologies, completed 3+ client projects in immersive technologies and consistently recognized for its contributions to the immersive sector and web developments, and skilled at coordinating cross-functional teams in a fast-paced deadline-driven environment.
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
@@ -24,7 +24,6 @@
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=abdulvahabaa&theme=discord)
 
-![Abdulvahabaa wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@abdulvahabaa&layout=compact&theme=blue-green) 
 
 # 🛠️ Tech Stack Skills
 

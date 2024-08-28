@@ -1,12 +1,6 @@
 
-# <img src="animated/hands.gif" height="40" />***Hey, I'm Abdul Vahab A A*** <img src="svgs/logo-javascript.svg" style="height: 45px;" /><img src="svgs/logo-nodejs.svg" style="height: 45px;" /><img src="svgs/logo-typescript.svg" style="height: 45px;" /><img src="svgs/logo-golang.svg" style="height: 45px;" />
-<p>
-<img src="animated/hands.gif" height="40" /><span style="font-size: 40px;">***Hey, I'm Abdul Vahab A A***</span> 
-  <img src="svgs/logo-javascript.svg" style="height: 45px;" />
-  <img src="svgs/logo-nodejs.svg" style="height: 45px;" />
-  <img src="svgs/logo-typescript.svg" style="height: 45px;" />
-  <img src="svgs/logo-golang.svg" style="height: 45px;" />
-</p>
+# <img src="animated/hands.gif" height="40" /> ***Hey, I'm Abdul Vahab A A*** <img src="svgs/logo-javascript.svg" style="height: 45px;" /> <img src="svgs/logo-nodejs.svg" style="height: 45px;" /> <img src="svgs/logo-typescript.svg" style="height: 45px;" /> <img src="svgs/logo-golang.svg" style="height: 45px;" />
+
 
 ## 🔗 Links
 

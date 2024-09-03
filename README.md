@@ -15,9 +15,9 @@
 
 ## 🚀 About Me <img src="animated/rabbit.gif" height="30" /> 
 
-#### **Abdul Vahab AA**, Immersive Software Engineer, Backend Developer Node.js & GoLang, Full Stack Developer, Web Developer, Certified Ethical Hacker.
+#### Junior software engineer Node.js & GoLang, Full Stack Developer, and Certified Ethical Hacker.
 
-<img src="animated/light_1.gif" height="20px" /> Seasoned professional, forward-looking software engineer with 2+ years of experience in creating and executing innovative solutions in immersive fields to enhance business productivity. Highly experienced in Backend Web Development and related technologies, completed 3+ client projects in immersive technologies and consistently recognized for its contributions to the immersive sector and web developments, and skilled at coordinating cross-functional teams in a fast-paced deadline-driven environment.
+<img src="animated/light_1.gif" height="20px" /> I'm a skilled Full Stack Developer with over two years of experience in Node.js and GoLang, specializing in backend development and security. As a Certified Ethical Hacker and former Junior Software Engineer at EstroTech Robotics, I have a proven track record in optimizing backend infrastructures, managing serverless architectures on AWS, and leading cross-functional teams to deliver secure, high-quality applications.
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 

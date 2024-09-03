@@ -1,5 +1,7 @@
 
-# <img src="animated/hands.gif" height="40" /> ***Hey, I'm Abdul Vahab A A*** <img src="svgs/logo-javascript.svg" style="height: 45px;" /> <img src="svgs/logo-nodejs.svg" style="height: 45px;" /> <img src="svgs/logo-typescript.svg" style="height: 45px;" /> <img src="svgs/logo-golang.svg" style="height: 45px;" />
+<img src="images/Github banner.png" >
+
+# <img src="animated/hands.gif" height="40" /> ***Hey, I'm Abdul Vahab A A*** <img src="animated/javascript.gif" height="40" /> <img src="animated/node.gif" height="40" /> <img src="svgs/logo-typescript.svg" height="40" /> <img src="animated/go.gif" height="40" />  <img src="images/react.png" style="height: 40px;" />
 
 
 ## 🔗 Links
@@ -13,9 +15,9 @@
 
 ## 🚀 About Me <img src="animated/rabbit.gif" height="30" /> 
 
-#### **Abdul Vahab AA**, Immersive Software Engineer, Backend Developer Node.js & GoLang, Full Stack Developer, Web Developer, Certified Ethical Hacker.
+#### Junior software engineer Node.js & GoLang, Full Stack Developer, and Certified Ethical Hacker.
 
-<img src="animated/light_1.gif" height="20px" /> Seasoned professional, forward-looking software engineer with 2+ years of experience in creating and executing innovative solutions in immersive fields to enhance business productivity. Highly experienced in Backend Web Development and related technologies, completed 3+ client projects in immersive technologies and consistently recognized for its contributions to the immersive sector and web developments, and skilled at coordinating cross-functional teams in a fast-paced deadline-driven environment.
+<img src="animated/light_1.gif" height="20px" /> I'm a skilled Full Stack Developer with over two years of experience in Node.js and GoLang, specializing in backend development and security. As a Certified Ethical Hacker and former Junior Software Engineer at EstroTech Robotics, I have a proven track record in optimizing backend infrastructures, managing serverless architectures on AWS, and leading cross-functional teams to deliver secure, high-quality applications.
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
@@ -151,7 +153,7 @@
 
 ---
 
-## 🔗 Links <img src="animated/javascript.gif" height="40" /> <img src="animated/node.gif" height="40" /> <img src="svgs/logo-typescript.svg" height="40" /> <img src="animated/go.gif" height="40" /> 
+## 🔗 Links <img src="svgs/logo-javascript.svg" style="height: 45px;" /> <img src="svgs/logo-nodejs.svg" style="height: 45px;" /> <img src="svgs/logo-typescript.svg" style="height: 45px;" /> <img src="images/go.png" style="height: 45px;" /> <img src="images/react.png" style="height: 45px;" />    
 
 [![Resume](https://img.shields.io/badge/Resume-%239146FF.svg?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1vQbcbp4rwGHrf3Mzbi3eCc7mTu4VjDbv/view?usp=sharing) [![Gmail](https://img.shields.io/badge/Gmail-%23FF4500.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:abdulvahabaa916@gmail.com) [![Portfolio](https://img.shields.io/badge/-Portfolio-FE7A16?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://linktr.ee/abdulvahabaa) [![Whatsapp](https://img.shields.io/badge/-WhatsApp-green?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/+9747733770) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulvahabaa)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/abubakthiyarvlogs) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/abubakthiyar) 
 <!-- [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCnGZRc2eohC0mySkxA5uLdQ)  -->

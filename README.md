@@ -6,7 +6,7 @@
 
 ## 🔗 Links
 
-[![Resume](https://img.shields.io/badge/Resume-%239146FF.svg?logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1oT14O3b8MF8dM-HOF4PlnMeZJNElZU6a/view?usp=sharing) [![Gmail](https://img.shields.io/badge/Gmail-%23FF4500.svg?logo=Gmail&logoColor=white)](mailto:abdulvahabaa916@gmail.com) [![Portfolio](https://img.shields.io/badge/-Portfolio-FE7A16?logo=Google-chrome&logoColor=white)](https://linktr.ee/abdulvahabaa) [![Whatsapp](https://img.shields.io/badge/-WhatsApp-green?logo=WhatsApp&logoColor=white)](https://wa.me/+9747733770) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulvahabaa)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/abubakthiyarvlogs) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/abubakthiyar) 
+[![Resume](https://img.shields.io/badge/Resume-%239146FF.svg?logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1rQ1TG_9zv9Ij7PuopyuBUFp5FCMREm4D/view?usp=sharing) [![Gmail](https://img.shields.io/badge/Gmail-%23FF4500.svg?logo=Gmail&logoColor=white)](mailto:abdulvahabaa916@gmail.com) [![Portfolio](https://img.shields.io/badge/-Portfolio-FE7A16?logo=Google-chrome&logoColor=white)](https://linktr.ee/abdulvahabaa) [![Whatsapp](https://img.shields.io/badge/-WhatsApp-green?logo=WhatsApp&logoColor=white)](https://wa.me/+9747733770) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulvahabaa)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/abubakthiyarvlogs) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/abubakthiyar) 
 
 <!-- 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@abubakthiyar) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCnGZRc2eohC0mySkxA5uLdQ)
@@ -29,9 +29,9 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abdulvahabaa&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulvahabaa&layout=compact&theme=blue-green)
 
-![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abdulvahabaa&theme=github-compact)
+<!-- ![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abdulvahabaa&theme=github-compact)-->
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=abdulvahabaa&theme=discord)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=abdulvahabaa&theme=discord) 
 
 
 # 🛠️ Tech Stack Skills

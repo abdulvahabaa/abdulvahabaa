@@ -1,7 +1,7 @@
 
 <img src="images/Github banner no pic.jpg" >
 
-# <img src="animated/hands.gif" height="40" /> ***Hey, I'm Abdul Vahab A A*** <img src="animated/javascript.gif" height="40" /> <img src="animated/node.gif" height="40" /> <img src="svgs/logo-typescript.svg" height="40" /> <img src="animated/go.gif" height="40" />  <img src="images/react.png" style="height: 40px;" />
+# <img src="animated/hands.gif" height="40" /> ***Hey, I'm Abdul Vahab A A*** <img src="animated/javascript.gif" height="40" /> <img src="animated/node.gif" height="40" /> <img src="svgs/logo-typescript.svg" height="40" /> <img src="images/react.png" style="height: 40px;" />
 
 
 ## 🔗 Links
@@ -18,11 +18,11 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abdulvahabaa&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulvahabaa&layout=compact&theme=blue-green)
+<!-- 
+![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abdulvahabaa&theme=github-compact) -->
+## 🏆 GitHub Trophies
 
-<!-- ![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abdulvahabaa&theme=github-compact)-->
-
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=abdulvahabaa&theme=discord) 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=abdulvahabaa&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 # 🛠️ Tech Stack Skills
 
@@ -150,5 +150,19 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=abdulvahabaa&icon=5&color=0)](https://visitcount.itsvg.in)
 
+
+
+<!-- ## 🗂️ Highlight Projects
+
+<a href="https://github.com/Zhenye-Na/DA-RNN">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhenye-na&repo=DA-RNN&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
+</a>
+
+<a href="https://github.com/Zhenye-Na/crnn-pytorch">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhenye-na&repo=crnn-pytorch&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
+</a> -->
+
+<!-- [![](https://visitcount.itsvg.in/api?id=abulvahabaa&icon=5&color=0)](https://visitcount.itsvg.in) -->
+
+[![](https://visitcount.itsvg.in/api?id=abdulvahabaa&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)

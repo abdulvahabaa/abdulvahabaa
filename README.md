@@ -1,8 +1,8 @@
-<img src="images/Github banner no pic.jpg" >
+<!-- <img src="images/Github banner no pic.jpg" > -->
 
 # <img src="animated/hands.gif" height="40" /> **_Hi, I'm Abdul Vahab A A_** <img src="animated/unicorn.gif" height="40" />
 
-<img src="svgs/logo-javascript.svg" height="40" /> &nbsp; <img src="svgs/logo-nodejs.svg" height="45" style="margin-right:10px;" /> &nbsp; <img src="svgs/logo-typescript.svg" height="40" style="margin-right:10px;" /> &nbsp; <img src="images/react.png" height="40" style="margin-right:10px;" /> &nbsp; <img src="svgs/next.js.svg" height="45" /> &nbsp; <img src="svgs/Git.svg" height="45" /> &nbsp; <img src="svgs/Express.svg" height="45" /> &nbsp; <img src="svgs/GitHub.svg" height="45" /> &nbsp; <img src="svgs/AWS.svg" height="45" /> &nbsp; <img src="svgs/MongoDB.svg" height="45" /> &nbsp; <img src="svgs/PostgresSQL.svg" height="45" /> &nbsp; <img src="svgs/Sequelize.svg" height="45" /> &nbsp; <img src="svgs/Playwrite.svg" height="45" /> &nbsp; <img src="svgs/Jest.svg" height="45" /> &nbsp; <img src="svgs/Figma.svg" height="45" /> &nbsp; <img src="svgs/Postman.svg" height="45" /> &nbsp; <img src="svgs/Powershell.svg" height="45" /> &nbsp; <img src="svgs/Visual Studio Code (VS Code).svg" height="45" /> &nbsp; <img src="svgs/Adobe Photoshop.svg" height="45" /> &nbsp; <img src="svgs/Adobe Illustrator.svg" height="45" /> &nbsp; <img src="svgs/Adobe Premiere Pro.svg" height="45" /> &nbsp; <img src="svgs/Adobe XD.svg" height="45" />
+<img src="svgs/logo-javascript.svg" height="40" /> &nbsp; <img src="svgs/logo-nodejs.svg" height="45" style="margin-right:10px;" /> &nbsp; <img src="svgs/logo-typescript.svg" height="40" style="margin-right:10px;" /> &nbsp; <img src="images/react.png" height="40" style="margin-right:10px;" /> &nbsp; <img src="svgs/next.js (2).svg" height="45" /> &nbsp; <img src="svgs/Git.svg" height="45" /> &nbsp; <img src="svgs/Express.svg" height="45" /> &nbsp; <img src="svgs/GitHub.svg" height="45" /> &nbsp; <img src="svgs/AWS.svg" height="45" /> &nbsp; <img src="svgs/MongoDB.svg" height="45" /> &nbsp; <img src="svgs/PostgresSQL.svg" height="45" /> &nbsp; <img src="svgs/Sequelize.svg" height="45" /> &nbsp; <img src="svgs/Playwrite.svg" height="45" /> &nbsp; <img src="svgs/Jest.svg" height="45" /> &nbsp; <img src="svgs/Figma.svg" height="45" /> &nbsp; <img src="svgs/Postman.svg" height="45" /> &nbsp; <img src="svgs/Powershell.svg" height="45" /> &nbsp; <img src="svgs/Visual Studio Code (VS Code).svg" height="45" /> &nbsp; <img src="svgs/Adobe Photoshop.svg" height="45" /> &nbsp; <img src="svgs/Adobe Illustrator.svg" height="45" /> &nbsp; <img src="svgs/Adobe Premiere Pro.svg" height="45" /> &nbsp; <img src="svgs/Adobe XD.svg" height="45" />
 
 ## 🔗 Links
 
@@ -95,8 +95,6 @@
 ![nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-%23000000.svg?style=plastic&logo=rest-api&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-%234095F6.svg?style=plastic&logo=websockets&logoColor=white)
-
-<!-- ![GraphQL](https://img.shields.io/badge/GraphQL-%23E10098.svg?style=plastic&logo=graphql&logoColor=white) -->
 
 #### 💻 Database
 

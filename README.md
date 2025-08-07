@@ -1,19 +1,15 @@
-
 <img src="images/Github banner no pic.jpg" >
 
-# <img src="animated/hands.gif" height="40" /> ***Hey, I'm Abdul Vahab A A*** <img src="animated/javascript.gif" height="40" /> <img src="animated/node.gif" height="40" /> <img src="svgs/logo-typescript.svg" height="40" /> <img src="images/react.png" style="height: 40px;" />
-
+# <img src="animated/hands.gif" height="40" /> **_Hey, I'm Abdul Vahab A A_** <img src="animated/javascript.gif" height="40" /> <img src="animated/node.gif" height="40" /> <img src="svgs/logo-typescript.svg" height="40" /> <img src="images/react.png" style="height: 40px;" />
 
 ## 🔗 Links
+
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
+[![Resume](https://img.shields.io/badge/Resume-%239146FF.svg?style=social&logo=read-the-docs&logoColor=blue)](https://drive.google.com/file/d/1rQ1TG_9zv9Ij7PuopyuBUFp5FCMREm4D/view?usp=sharing) [![Gmail](https://img.shields.io/badge/Gmail-%23FF4500.svg?style=social&logo=Gmail)](mailto:abdulvahabaa916@gmail.com) [![Whatsapp](https://img.shields.io/badge/-WhatsApp-green?logo=WhatsApp&style=social)](https://wa.me/+9747733770) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulvahabaa)
+<!-- [![LeetCode](https://img.shields.io/badge/LeetCode-FE7A16.svg?style=social&logo=leetcode&logoColor=orange)](https://leetcode.com/u/abdulvahabaa/) -->
 
-
-[![Resume](https://img.shields.io/badge/Resume-%239146FF.svg?logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1rQ1TG_9zv9Ij7PuopyuBUFp5FCMREm4D/view?usp=sharing) [![Gmail](https://img.shields.io/badge/Gmail-%23FF4500.svg?logo=Gmail&logoColor=white)](mailto:abdulvahabaa916@gmail.com)  [![Whatsapp](https://img.shields.io/badge/-WhatsApp-green?logo=WhatsApp&logoColor=white)](https://wa.me/+9747733770) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulvahabaa) 
-<!-- [![LeetCode](https://img.shields.io/badge/LeetCode-FE7A16.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/abdulvahabaa/) -->
-
-
-## <img src="animated/light_5.gif" height="30px" /> Current GitHub Stats  📊 [![Profile Views](https://visitcountpro.netlify.app/api?id=abdulvahabaa&pretty=true)](https://visitcount.itsvg.in) 
+## <img src="animated/light_5.gif" height="30px" /> Current GitHub Stats 📊 [![Profile Views](https://visitcountpro.netlify.app/api?id=abdulvahabaa&pretty=true)](https://visitcount.itsvg.in)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdulvahabaa&show_icons=true&theme=radical)![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulvahabaa&layout=compact&theme=blue-green)
 
@@ -92,6 +88,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=plastic&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=plastic&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=plastic&logo=firebase&logoColor=black)
+
 <!-- ![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=plastic&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=plastic&logo=redis&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-%2300A0D1.svg?style=plastic&logo=neo4j&logoColor=white) -->
@@ -104,8 +101,8 @@
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=plastic&logo=postman&logoColor=white)
 ![Hoppscotch](https://img.shields.io/badge/Hoppscotch-%23006DFF.svg?style=plastic&logo=hoppscotch&logoColor=white)
 
-
 #### 💻 DevOps
+
 ![AWS](https://img.shields.io/badge/AWS-%23FFCA28.svg?style=plastic&logo=aws&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230080FF.svg?style=plastic&logo=digitalocean&logoColor=white)
@@ -137,12 +134,10 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-%232C2255.svg?style=plastic&logo=eclipse&logoColor=white)
 
 ---
+
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with fellow developers</b> and tech enthusiasts! Feel free to say <b>hi</b> — I'm always open to learning and collaboration :)</em>
 
 ---
-
-
-
 
 <!-- ## 🗂️ Highlight Projects
 

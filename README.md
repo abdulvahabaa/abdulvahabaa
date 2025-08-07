@@ -1,6 +1,13 @@
 <img src="images/Github banner no pic.jpg" >
 
-# <img src="animated/hands.gif" height="40" /> **_Hey, I'm Abdul Vahab A A_** <img src="animated/javascript.gif" height="40" /> <img src="animated/node.gif" height="40" /> <img src="svgs/logo-typescript.svg" height="40" /> <img src="images/react.png" style="height: 40px;" />
+# <img src="animated/hands.gif" height="40" /> **_Hi, I'm Abdul Vahab A A_** <img src="animated/unicorn.gif" height="40" />
+
+<img src="svgs/logo-javascript.svg" height="40" style="margin-right:10px;" />
+<img src="svgs/logo-nodejs.svg" height="45" style="margin-right:10px;" />
+<img src="svgs/logo-typescript.svg" height="40" style="margin-right:10px;" />
+<img src="images/react.png" height="40" style="margin-right:10px;" />
+<img src="svgs/next.js.svg" height="45" />
+
 
 ## 🔗 Links
 
@@ -19,7 +26,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=abdulvahabaa&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-# 🛠️ Tech Stack Skills
+## 🛠️ Tech Stack Skills
 
 #### 💻 Operating Systems
 

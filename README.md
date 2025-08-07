@@ -14,9 +14,22 @@
 
 ## <img src="animated/light_5.gif" height="30px" /> Current GitHub Stats 📊 [![Profile Views](https://visitcountpro.netlify.app/api?id=abdulvahabaa&pretty=true)](https://visitcount.itsvg.in)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdulvahabaa&show_icons=true&theme=radical)![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulvahabaa&layout=compact&theme=blue-green)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abdulvahabaa&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<div  >
+<a  href="https://github.com/abdulvahabaa">
+<div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdulvahabaa&theme=2077" width="32.5%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdulvahabaa&theme=2077&exclude={exclude}" width="32.5%" >
+</div>
+<div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdulvahabaa&theme=2077&exclude={exclude}" width="32.5%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdulvahabaa&theme=2077&utcOffset=+5" width="32.5%" >
+</div>
+</a>
+<!-- <details> -->
+  <!-- <summary>More stats</summary> -->
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdulvahabaa&theme=2077" >
+<!-- </details> -->
+</div>
 
 ## 🏆 GitHub Trophies
 

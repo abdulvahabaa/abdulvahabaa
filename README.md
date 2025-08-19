@@ -22,7 +22,7 @@
 </div>
 <div>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdulvahabaa&theme=2077&exclude={exclude}" width="32.5%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdulvahabaa&theme=2077&utcOffset=+5" width="32.5%" >
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdulvahabaa&theme=2077&utcOffset=+05.30" width="32.5%" >
 </div>
 </a>
 <!-- <details> -->

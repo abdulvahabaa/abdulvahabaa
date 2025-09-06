@@ -1,8 +1,21 @@
 
 <h1 align="center"><i>Hi there, I'm</i> <a href="https://www.linkedin.com/in/abdulvahabaa/">Abdul Vahab A A</a> <img src="animated/unicorn.gif" height="40" />
 </h1>
+
 <div align="center">
 
+<!-- [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-1abc9c?style=flat&logo=google-chrome&logoColor=white)](https://m-dinesh-30.web.app/) -->
+
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulvahabaa)
+[![Resume Badge](https://img.shields.io/badge/-Resume-34495e?style=flat&logo=adobe-acrobat-reader&logoColor=white)](https://drive.google.com/file/d/1rQ1TG_9zv9Ij7PuopyuBUFp5FCMREm4D/view?usp=sharing)
+[![Gmail Badge](https://img.shields.io/badge/-Mail-red?style=flat&logo=gmail&logoColor=white)](mailto:abdulvahabaa916@gmail.com)
+[![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/+9747733770)
+[![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/abdulvahabaa/)
+
+</div>
+<hr>
+<div align="center">
+<h2 align="center">🛠️ Tech Stack Skills</h2>
 <img src="svgs/logo-javascript.svg" height="40" /> &nbsp; 
 <img src="svgs/logo-typescript.svg" height="40" style="margin-right:10px;" /> &nbsp; 
 <img src="images/react.png" height="40" style="margin-right:10px;" /> &nbsp; 
@@ -29,12 +42,7 @@
 <img src="svgs/Adobe Premiere Pro.svg" height="45" />
 </div>
 <hr>
-
-## 🔗 Links
-
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-
- [![LinkedIn Followers](https://img.shields.io/badge/LinkedIn_Followers-4k+-blue?logo=linkedin)](https://www.linkedin.com/in/abdulvahabaa) [![Resume](https://img.shields.io/badge/Resume-%239146FF.svg?style=social&logo=read-the-docs&logoColor=blue)](https://drive.google.com/file/d/1rQ1TG_9zv9Ij7PuopyuBUFp5FCMREm4D/view?usp=sharing) [![Gmail](https://img.shields.io/badge/Gmail-%23FF4500.svg?style=social&logo=Gmail)](mailto:abdulvahabaa916@gmail.com) [![Whatsapp](https://img.shields.io/badge/-WhatsApp-green?logo=WhatsApp&style=social)](https://wa.me/+9747733770) [![LeetCode](https://img.shields.io/badge/LeetCode-FE7A16.svg?style=social&logo=leetcode&logoColor=orange)](https://leetcode.com/u/abdulvahabaa/)
 
 ## <img src="animated/light_5.gif" height="30px" /> Current GitHub Stats 📊 [![Profile Views](https://visitcountpro.netlify.app/api?id=abdulvahabaa&pretty=true)](https://visitcount.itsvg.in)
 
@@ -63,89 +71,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=abdulvahabaa&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-<hr>
 
-## 🛠️ Tech Stack Skills
 
-### 💻 Operating Systems
-![Windows](https://img.shields.io/badge/windows-%230769AD.svg?style=plastic&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-%2307405e.svg?style=plastic&logo=Linux&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_linux-%23404d59.svg?style=plastic&logo=Kalilinux&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/ubuntu-%23E34F26.svg?style=plastic&logo=ubuntu&logoColor=white)
-
-### 💻 Programming & Scripting
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=plastic&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%2300C1D4.svg?style=plastic&logo=sql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=plastic&logo=gnu-bash&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white)
-![Shell Scripting](https://img.shields.io/badge/Shell_Scripting-%234EAA25.svg?style=plastic&logo=gnu-bash&logoColor=white)
-
-### 🌐 Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=plastic&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=plastic&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=plastic&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2306B6D4.svg?style=plastic&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-%23CC6699.svg?style=plastic&logo=sass&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?style=plastic&logo=redux&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=plastic&logo=mui&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-%23010101.svg?style=plastic&logo=socketdotio&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-%235A29E4.svg?style=plastic&logo=axios&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-%237952B3.svg?style=plastic&logo=Zod&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-%234B32C3.svg?style=plastic&logo=eslint&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-%23000000.svg?style=plastic&logo=jsonwebtokens&logoColor=white)
-
-### ⚙️ Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=plastic&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=plastic&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-%23000000.svg?style=plastic&logo=rest-api&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-%234095F6.svg?style=plastic&logo=websockets&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=plastic&logo=swagger&logoColor=black)
-![nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white)
-![Nodemon](https://img.shields.io/badge/Nodemon-%2376D04B.svg?style=plastic&logo=nodemon&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white)
-![Yarn](https://img.shields.io/badge/Yarn-%232C8EBB.svg?style=plastic&logo=yarn&logoColor=white)
-
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=plastic&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=plastic&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=plastic&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=plastic&logo=firebase&logoColor=black)
-
-### 🧪 Testing & API Tools
-![Playwright](https://img.shields.io/badge/Playwright-%23004A71.svg?style=plastic&logo=playwright&logoColor=white)
-![Jasmine](https://img.shields.io/badge/Jasmine-%238A4182.svg?style=plastic&logo=jasmine&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-%23C21325.svg?style=plastic&logo=jest&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=plastic&logo=postman&logoColor=white)
-![Hoppscotch](https://img.shields.io/badge/Hoppscotch-%23006DFF.svg?style=plastic&logo=hoppscotch&logoColor=white)
-
-### 🚀 DevOps & Cloud
-![Git](https://img.shields.io/badge/git-%23E34F26.svg?style=plastic&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=plastic&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FFCA28.svg?style=plastic&logo=aws&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230080FF.svg?style=plastic&logo=digitalocean&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-%23F38020.svg?style=plastic&logo=cloudflare&logoColor=white)
-
-### 🎨 Design Tools
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=canva&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-%23759CFC.svg?style=plastic&logo=framer&logoColor=black)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-%2331A8FF.svg?style=plastic&logo=adobephotoshop&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe_XD-%238A4182.svg?style=plastic&logo=adobexd&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe_Premiere_Pro-%239999FF.svg?style=plastic&logo=adobepremierepro&logoColor=white)
-
-### 🛠️ Development Tools
-![GitHub Projects](https://img.shields.io/badge/GitHub_Projects-%23000000.svg?style=plastic&logo=github&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-%230052CC.svg?style=plastic&logo=jira&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=plastic&logo=visualstudiocode&logoColor=white)
 
 
 ---

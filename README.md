@@ -47,10 +47,10 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdulvahabaa&theme=2077&utcOffset=+05.30" width="32.5%" >
 </div>
 </a>
-<!-- <details> -->
-  <!-- <summary>More stats</summary> -->
+<details>
+  <summary>More stats</summary>
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdulvahabaa&theme=2077" >
-<!-- </details> -->
+</details>
 </div>
 
 ## 🧑🏻‍💻Leetcode Stats
@@ -95,18 +95,11 @@
 ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-%23CC6699.svg?style=plastic&logo=sass&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?style=plastic&logo=redux&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React_Hook_Form-%23EC5990.svg?style=plastic&logo=reacthookform&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-%23010101.svg?style=plastic&logo=socketdotio&logoColor=white)
-![React Query](https://img.shields.io/badge/React_Query-%23FF4154.svg?style=plastic&logo=reactquery&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-%234B32C3.svg?style=plastic&logo=eslint&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-%23000000.svg?style=plastic&logo=jsonwebtokens&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-%23FF6384.svg?style=plastic&logo=chartdotjs&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=plastic&logo=mui&logoColor=white)
-![Styled-Components](https://img.shields.io/badge/Styled_Components-%23DB7093.svg?style=plastic&logo=styled-components&logoColor=white)
-![Storybook](https://img.shields.io/badge/Storybook-%23FF4785.svg?style=plastic&logo=storybook&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-%235A29E4.svg?style=plastic&logo=axios&logoColor=white)
-![Lodash](https://img.shields.io/badge/Lodash-%23273230.svg?style=plastic&logo=lodash&logoColor=white)
-![Moment.js](https://img.shields.io/badge/Moment.js-%23000000.svg?style=plastic&logo=momentdotjs&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-%237952B3.svg?style=plastic&logo=Zod&logoColor=white)
 
 #### 💻 Back-End Development
@@ -155,9 +148,8 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-%23759CFC.svg?style=plastic&logo=framer&logoColor=black)
-![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe_Acrobat_Reader-%23FF0000.svg?style=plastic&logo=adobeacrobatreader&logoColor=white)
-![Adobe Lightroom](https://img.shields.io/badge/Adobe_Lightroom-%2331A8FF.svg?style=plastic&logo=adobelightroom&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-%2331A8FF.svg?style=plastic&logo=adobephotoshop&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-%238A4182.svg?style=plastic&logo=adobexd&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe_Premiere_Pro-%239999FF.svg?style=plastic&logo=adobepremierepro&logoColor=white)
 
 #### 💻 Development Tools
@@ -168,10 +160,6 @@
 ![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=plastic&logo=visualstudiocode&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-%23CB3837.svg?style=plastic&logo=npm&logoColor=white)
 ![Yarn](https://img.shields.io/badge/Yarn-%232C8EBB.svg?style=plastic&logo=yarn&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-%23FCA121.svg?style=plastic&logo=gitlab&logoColor=white)
-![Sublime Text](https://img.shields.io/badge/Sublime_Text-%23FF9800.svg?style=plastic&logo=sublimetext&logoColor=black)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-%23000000.svg?style=plastic&logo=intellijidea&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-%232C2255.svg?style=plastic&logo=eclipse&logoColor=white)
 
 ---
 

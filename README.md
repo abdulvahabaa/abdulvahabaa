@@ -1,4 +1,7 @@
-# **_Hi, I'm_** <a href="https://www.linkedin.com/in/abdulvahabaa/">Abdul Vahab A A</a><img src="animated/unicorn.gif" height="40" />
+
+<h1 align="center"><i>Hi there, I'm</i> <a href="https://www.linkedin.com/in/abdulvahabaa/">Abdul Vahab A A</a> <img src="animated/unicorn.gif" height="40" />
+</h1>
+<div align="center">
 
 <img src="svgs/logo-javascript.svg" height="40" /> &nbsp; 
 <img src="svgs/logo-typescript.svg" height="40" style="margin-right:10px;" /> &nbsp; 
@@ -24,7 +27,8 @@
 <img src="svgs/Adobe Illustrator.svg" height="45" /> &nbsp; 
 <img src="svgs/Adobe XD.svg" height="45" /> &nbsp; 
 <img src="svgs/Adobe Premiere Pro.svg" height="45" />
-
+</div>
+<hr>
 
 ## 🔗 Links
 
@@ -58,6 +62,8 @@
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=abdulvahabaa&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+<hr>
 
 ## 🛠️ Tech Stack Skills
 

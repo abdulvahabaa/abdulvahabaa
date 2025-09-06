@@ -30,7 +30,7 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
- [![LinkedIn Followers](https://img.shields.io/badge/LinkedIn_Followers-4k+-blue?logo=linkedin) ](https://www.linkedin.com/in/abdulvahabaa) [![Resume](https://img.shields.io/badge/Resume-%239146FF.svg?style=social&logo=read-the-docs&logoColor=blue)](https://drive.google.com/file/d/1rQ1TG_9zv9Ij7PuopyuBUFp5FCMREm4D/view?usp=sharing) [![Gmail](https://img.shields.io/badge/Gmail-%23FF4500.svg?style=social&logo=Gmail)](mailto:abdulvahabaa916@gmail.com) [![Whatsapp](https://img.shields.io/badge/-WhatsApp-green?logo=WhatsApp&style=social)](https://wa.me/+9747733770) [![LeetCode](https://img.shields.io/badge/LeetCode-FE7A16.svg?style=social&logo=leetcode&logoColor=orange)](https://leetcode.com/u/abdulvahabaa/)
+ [![LinkedIn Followers](https://img.shields.io/badge/LinkedIn_Followers-4k+-blue?logo=linkedin)](https://www.linkedin.com/in/abdulvahabaa) [![Resume](https://img.shields.io/badge/Resume-%239146FF.svg?style=social&logo=read-the-docs&logoColor=blue)](https://drive.google.com/file/d/1rQ1TG_9zv9Ij7PuopyuBUFp5FCMREm4D/view?usp=sharing) [![Gmail](https://img.shields.io/badge/Gmail-%23FF4500.svg?style=social&logo=Gmail)](mailto:abdulvahabaa916@gmail.com) [![Whatsapp](https://img.shields.io/badge/-WhatsApp-green?logo=WhatsApp&style=social)](https://wa.me/+9747733770) [![LeetCode](https://img.shields.io/badge/LeetCode-FE7A16.svg?style=social&logo=leetcode&logoColor=orange)](https://leetcode.com/u/abdulvahabaa/)
 
 ## <img src="animated/light_5.gif" height="30px" /> Current GitHub Stats 📊 [![Profile Views](https://visitcountpro.netlify.app/api?id=abdulvahabaa&pretty=true)](https://visitcount.itsvg.in)
 

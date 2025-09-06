@@ -1,5 +1,3 @@
-<!-- <img src="images/Github banner no pic.jpg" > -->
-
 # **_Hi, I'm_** <a href="https://www.linkedin.com/in/abdulvahabaa/">Abdul Vahab A A</a><img src="animated/unicorn.gif" height="40" />
 
 <img src="svgs/logo-javascript.svg" height="40" /> &nbsp; 
@@ -32,7 +30,7 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulvahabaa) [![Resume](https://img.shields.io/badge/Resume-%239146FF.svg?style=social&logo=read-the-docs&logoColor=blue)](https://drive.google.com/file/d/1rQ1TG_9zv9Ij7PuopyuBUFp5FCMREm4D/view?usp=sharing) [![Gmail](https://img.shields.io/badge/Gmail-%23FF4500.svg?style=social&logo=Gmail)](mailto:abdulvahabaa916@gmail.com) [![Whatsapp](https://img.shields.io/badge/-WhatsApp-green?logo=WhatsApp&style=social)](https://wa.me/+9747733770) [![LeetCode](https://img.shields.io/badge/LeetCode-FE7A16.svg?style=social&logo=leetcode&logoColor=orange)](https://leetcode.com/u/abdulvahabaa/)
+ [![LinkedIn Followers](https://img.shields.io/badge/LinkedIn_Followers-4k+-blue?logo=linkedin) ](https://www.linkedin.com/in/abdulvahabaa) [![Resume](https://img.shields.io/badge/Resume-%239146FF.svg?style=social&logo=read-the-docs&logoColor=blue)](https://drive.google.com/file/d/1rQ1TG_9zv9Ij7PuopyuBUFp5FCMREm4D/view?usp=sharing) [![Gmail](https://img.shields.io/badge/Gmail-%23FF4500.svg?style=social&logo=Gmail)](mailto:abdulvahabaa916@gmail.com) [![Whatsapp](https://img.shields.io/badge/-WhatsApp-green?logo=WhatsApp&style=social)](https://wa.me/+9747733770) [![LeetCode](https://img.shields.io/badge/LeetCode-FE7A16.svg?style=social&logo=leetcode&logoColor=orange)](https://leetcode.com/u/abdulvahabaa/)
 
 ## <img src="animated/light_5.gif" height="30px" /> Current GitHub Stats 📊 [![Profile Views](https://visitcountpro.netlify.app/api?id=abdulvahabaa&pretty=true)](https://visitcount.itsvg.in)
 
@@ -55,7 +53,7 @@
 
 ## 🧑🏻‍💻Leetcode Stats
 
-[![Leetcode stats](https://leetcard.jacoblin.cool/abdulvahabaa?theme=dark&font=source_code_pro&ext=heatmap)](https://leetcode.com/Dinesh_coder30/)
+[![Leetcode stats](https://leetcard.jacoblin.cool/abdulvahabaa?theme=dark&font=source_code_pro&ext=heatmap)](https://leetcode.com/u/abdulvahabaa/)
 
 ## 🏆 GitHub Trophies
 

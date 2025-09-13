@@ -19,10 +19,10 @@
 - 💻 Full-Stack Developer (MERN, Node.js & Django)
 - 🚀 Ex-Junior Software Engineer @ Estro Tech Robotics
 - 👨‍🏫 Full-Stack Development Trainer @ G-Tech Computer Education
-- 🌍 Freelance Web Developer (Building Scalable & Modern Web Apps)
+- 🌍 Freelance Web Developer (Scalable & Modern Web Apps)
 - 🐍 Python & Django Enthusiast
-- 🎓 Bachelor of Computer Applications (SGOU, Ongoing)
-- 🎨 UI/UX Designer
+- 🎓 Pursuing Bachelor of Computer Applications (SGOU, in Progress)
+- 🎨 Skilled in UI/UX & Graphic Design
 - 💡 Certified Ethical Hacker (CEH v11)
 - 💬 Ask me about Tech & Design
 - 🤝 Open to collaborate on Projects & Freelance Works
@@ -31,8 +31,8 @@
 ![Projects](https://img.shields.io/badge/Projects-25-blue?logo=github)
 ![Client Satisfaction](https://img.shields.io/badge/Client_Satisfied-78%25-brightgreen?logo=github)
 
-<!-- 🤖 My Digital Stats :  
-[![LinkedIn Followers](https://img.shields.io/badge/LinkedIn_Followers-4k+-blue?logo=linkedin)](https://www.linkedin.com/in/abdulvahabaa) [![GitHub Stars](https://img.shields.io/badge/Stars-100-blue?logo=github)](https://github.com/abdulvahabaa) [![Profile Views](https://komarev.com/ghpvc/?username=abdulvahab&color=blue)](https://github.com/abdulvahabaa) -->
+🤖 My Digital Stats :  
+[![LinkedIn Followers](https://img.shields.io/badge/LinkedIn_Followers-4k+-blue?logo=linkedin)](https://www.linkedin.com/in/abdulvahabaa) [![GitHub Stars](https://img.shields.io/github/stars/abdulvahabaa?style=social)](https://github.com/abdulvahabaa) [![GitHub Followers](https://img.shields.io/github/followers/abdulvahabaa?label=Followers&logo=github)](https://github.com/abdulvahabaa?tab=followers) [![Profile Views](https://visitcountpro.netlify.app/api?id=abdulvahabaa&pretty=true)](https://visitcount.itsvg.in)
 
 ---
 

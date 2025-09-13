@@ -32,7 +32,12 @@
 ![Client Satisfaction](https://img.shields.io/badge/Client_Satisfied-78%25-brightgreen?logo=github)
 
 🤖 My Digital Stats :  
-[![LinkedIn Followers](https://img.shields.io/badge/LinkedIn_Followers-4k+-blue?logo=linkedin)](https://www.linkedin.com/in/abdulvahabaa) [![GitHub Stars](https://img.shields.io/github/stars/abdulvahabaa?style=social)](https://github.com/abdulvahabaa) [![GitHub Followers](https://img.shields.io/github/followers/abdulvahabaa?label=Followers&logo=github)](https://github.com/abdulvahabaa?tab=followers) [![Profile Views](https://visitcountpro.netlify.app/api?id=abdulvahabaa&pretty=true)](https://visitcount.itsvg.in)
+[![LinkedIn Followers](https://img.shields.io/badge/LinkedIn_Followers-4k+-blue?logo=linkedin)](https://www.linkedin.com/in/abdulvahabaa) [![GitHub Stars](https://img.shields.io/github/stars/abdulvahabaa?style=flat-square&logo=github)](https://github.com/abdulvahabaa)
+[![GitHub Followers](https://img.shields.io/github/followers/abdulvahabaa?style=flat-square&logo=github)](https://github.com/abdulvahabaa?tab=followers) [![Profile Views](https://visitcountpro.netlify.app/api?id=abdulvahabaa&pretty=true)](https://visitcount.itsvg.in)
+
+
+
+
 
 ---
 

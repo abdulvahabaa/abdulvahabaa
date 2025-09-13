@@ -1,4 +1,3 @@
-
 <h1 align="center"><i>Hi there, I'm</i> <a href="https://www.linkedin.com/in/abdulvahabaa/">Abdul Vahab A A</a> <img src="animated/unicorn.gif" height="40" />
 </h1>
 
@@ -16,12 +15,16 @@
 <hr>
 <div align="center">
 <h2 align="center">🛠️ Tech Stack Skills</h2>
+<img src="svgs/HTML5.svg" height="40" /> &nbsp;
+<img src="svgs/CSS3.svg" height="40" /> &nbsp;
 <img src="svgs/logo-javascript.svg" height="40" /> &nbsp; 
 <img src="svgs/logo-typescript.svg" height="40" style="margin-right:10px;" /> &nbsp; 
 <img src="images/react.png" height="40" style="margin-right:10px;" /> &nbsp; 
 <img src="svgs/next.js (2).svg" height="45" /> &nbsp; 
 <img src="svgs/logo-nodejs.svg" height="45" style="margin-right:10px;" /> &nbsp; 
 <img src="images/Express White.png" height="35" /> &nbsp; 
+<img src="svgs/Python.svg" height="45" /> &nbsp; 
+<img src="svgs/Django.svg" height="45" /> &nbsp; 
 <img src="svgs/MongoDB.svg" height="45" /> &nbsp; 
 <img src="svgs/PostgresSQL.svg" height="45" /> &nbsp; 
 <img src="svgs/Sequelize.svg" height="45" /> &nbsp; 
@@ -70,10 +73,6 @@
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=abdulvahabaa&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-
-
 
 ---
 

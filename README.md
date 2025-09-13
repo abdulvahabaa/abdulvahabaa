@@ -14,6 +14,28 @@
 
 ---
 
+<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right">
+
+- 💻 Full-Stack Developer (MERN, Node.js & Django)
+- 🚀 Ex-Junior Software Engineer @ Estro Tech Robotics
+- 👨‍🏫 Full-Stack Development Trainer @ G-Tech Computer Education
+- 🌍 Freelance Web Developer (Building Scalable & Modern Web Apps)
+- 🐍 Python & Django Enthusiast
+- 🎓 Bachelor of Computer Applications (SGOU, Ongoing)
+- 🎨 UI/UX Designer
+- 💡 Certified Ethical Hacker (CEH v11)
+- 💬 Ask me about Tech & Design
+- 🤝 Open to collaborate on Projects & Freelance Works
+
+📑 Work Stats :  
+![Projects](https://img.shields.io/badge/Projects-25-blue?logo=github)
+![Client Satisfaction](https://img.shields.io/badge/Client_Satisfied-78%25-brightgreen?logo=github)
+
+<!-- 🤖 My Digital Stats :  
+[![LinkedIn Followers](https://img.shields.io/badge/LinkedIn_Followers-4k+-blue?logo=linkedin)](https://www.linkedin.com/in/abdulvahabaa) [![GitHub Stars](https://img.shields.io/badge/Stars-100-blue?logo=github)](https://github.com/abdulvahabaa) [![Profile Views](https://komarev.com/ghpvc/?username=abdulvahab&color=blue)](https://github.com/abdulvahabaa) -->
+
+---
+
 <div align="center">
 <h2 align="center">🛠️ Tech Stack Skills</h2>
 <img src="svgs/HTML5.svg" height="40" /> &nbsp;

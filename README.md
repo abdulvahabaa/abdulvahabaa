@@ -21,7 +21,7 @@
 - 👨‍🏫 Full-Stack Development Trainer @ G-Tech Computer Education
 - 🌍 Freelance Web Developer (Scalable & Modern Web Apps)
 - 🐍 Python & Django Enthusiast
-- 🎓 Pursuing Bachelor of Computer Applications (SGOU, in Progress)
+- 🎓 BCA (Distance Mode, SGOU – Ongoing)
 - 🎨 Skilled in UI/UX & Graphic Design
 - 💡 Certified Ethical Hacker (CEH v11)
 - 💬 Ask me about Tech & Design
@@ -109,5 +109,3 @@
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with fellow developers</b> and tech enthusiasts! Feel free to say <b>hi</b> — I'm always open to learning and collaboration :)</em>
 
 ---
-
-[![](https://visitcountpro.netlify.app/api?id=abdulvahabaa&pretty=true)](https://visitcount.itsvg.in)

@@ -35,10 +35,6 @@
 [![LinkedIn Followers](https://img.shields.io/badge/LinkedIn_Followers-4k+-blue?logo=linkedin)](https://www.linkedin.com/in/abdulvahabaa) [![GitHub Stars](https://img.shields.io/github/stars/abdulvahabaa?style=flat-square&logo=github)](https://github.com/abdulvahabaa)
 [![GitHub Followers](https://img.shields.io/github/followers/abdulvahabaa?style=flat-square&logo=github)](https://github.com/abdulvahabaa?tab=followers) [![Profile Views](https://visitcountpro.netlify.app/api?id=abdulvahabaa&pretty=true)](https://visitcount.itsvg.in)
 
-
-
-
-
 ---
 
 <div align="center">
@@ -51,6 +47,7 @@
 <img src="svgs/next.js (2).svg" height="45" /> &nbsp; 
 <img src="svgs/logo-nodejs.svg" height="45" style="margin-right:10px;" /> &nbsp; 
 <img src="images/Express White.png" height="35" /> &nbsp; 
+<img src="svgs/GraphQL.svg" height="45" /> &nbsp; 
 <img src="svgs/Python.svg" height="45" /> &nbsp; 
 <img src="svgs/Django.svg" height="45" /> &nbsp; 
 <img src="svgs/MongoDB.svg" height="45" /> &nbsp; 
@@ -61,6 +58,7 @@
 <img src="svgs/Git.svg" height="45" /> &nbsp; 
 <img src="svgs/GitHub.svg" height="45" /> &nbsp; 
 <img src="svgs/Docker.svg" height="50" /> &nbsp; 
+<img src="svgs/Redis.svg" height="50" /> &nbsp; 
 <img src="svgs/Kubernetes.svg" height="45" /> &nbsp; 
 <img src="svgs/AWS.svg" height="45" /> &nbsp; 
 <img src="svgs/Powershell.svg" height="45" /> &nbsp; 

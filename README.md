@@ -1,14 +1,16 @@
-<h1 align="center"><i>Hi there, I'm</i> <a href="https://www.linkedin.com/in/abdulvahabaa/">Abdul Vahab A A</a> <img src="animated/unicorn.gif" height="40" />
+<div align="center">
+  
+<h1 align="center"><i>Hi there, I'm</i> <a href="https://www.abulvahabaa.in">Abdul Vahab A A</a> <img src="animated/unicorn.gif" height="40" />
 </h1>
 
-<div align="center">
+### 💻 Full-Stack Developer | 🚀 Software Engineer | 👨‍🏫 Tech Trainer
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulvahabaa)
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-1abc9c?style=flat&logo=google-chrome&logoColor=white)](https://www.abdulvahabaa.in/)
-[![Resume Badge](https://img.shields.io/badge/-Resume-34495e?style=flat&logo=adobe-acrobat-reader&logoColor=white)](/resume/abdulvahabaa_resume_2025.pdf)
-[![Gmail Badge](https://img.shields.io/badge/-Mail-red?style=flat&logo=gmail&logoColor=white)](mailto:abdulvahabaa916@gmail.com)
-[![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/+9747733770)
-[![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/abdulvahabaa/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulvahabaa)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1abc9c?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.abdulvahabaa.in/)
+[![Resume](https://img.shields.io/badge/Resume-34495e?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](/resume/abdulvahabaa_resume_2025.pdf)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulvahabaa916@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+9747733770)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/abdulvahabaa/)
 
 </div>
 
@@ -18,7 +20,7 @@
 
 - 💻 Full-Stack Developer (MERN, Node.js & Django)
 - 🚀 Ex-Junior Software Engineer @ Estro Tech Robotics
-- 👨‍🏫 Full-Stack Development Trainer @ G-Tech Computer Education
+- 👨‍🏫 Full-Stack Development Trainer @ G-Tech Education
 - 🌍 Freelance Web Developer (Scalable & Modern Web Apps)
 - 🐍 Python & Django Enthusiast
 - 🎓 BCA (Distance Mode, SGOU – Ongoing)
@@ -98,9 +100,6 @@
 
 [![Leetcode stats](https://leetcard.jacoblin.cool/abdulvahabaa?theme=dark&font=source_code_pro&ext=heatmap)](https://leetcode.com/u/abdulvahabaa/)
 
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=abdulvahabaa&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 

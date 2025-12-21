@@ -41,36 +41,38 @@
 
 <div align="center">
 <h2 align="center">🛠️ Tech Stack Skills</h2>
-<img src="svgs/HTML5.svg" height="40" /> &nbsp;
-<img src="svgs/CSS3.svg" height="40" /> &nbsp;
-<img src="svgs/logo-javascript.svg" height="40" /> &nbsp; 
-<img src="svgs/logo-typescript.svg" height="40" style="margin-right:10px;" /> &nbsp; 
-<img src="images/react.png" height="40" style="margin-right:10px;" /> &nbsp; 
-<img src="svgs/next.js (2).svg" height="45" /> &nbsp; 
-<img src="svgs/logo-nodejs.svg" height="45" style="margin-right:10px;" /> &nbsp; 
-<img src="images/Express White.png" height="35" /> &nbsp; 
-<img src="svgs/GraphQL.svg" height="45" /> &nbsp; 
-<img src="svgs/Python.svg" height="45" /> &nbsp; 
-<img src="svgs/Django.svg" height="45" /> &nbsp; 
-<img src="svgs/MongoDB.svg" height="45" /> &nbsp; 
-<img src="svgs/PostgresSQL.svg" height="45" /> &nbsp; 
-<img src="svgs/Sequelize.svg" height="45" /> &nbsp; 
-<img src="svgs/Playwrite.svg" height="45" /> &nbsp; 
-<img src="svgs/Jest.svg" height="45" /> &nbsp; 
-<img src="svgs/Git.svg" height="45" /> &nbsp; 
-<img src="svgs/GitHub.svg" height="45" /> &nbsp; 
-<img src="svgs/Docker.svg" height="50" /> &nbsp; 
-<img src="svgs/Redis.svg" height="50" /> &nbsp; 
-<img src="svgs/Kubernetes.svg" height="45" /> &nbsp; 
-<img src="svgs/AWS.svg" height="45" /> &nbsp; 
-<img src="svgs/Powershell.svg" height="45" /> &nbsp; 
-<img src="svgs/Postman.svg" height="45" /> &nbsp; 
-<img src="svgs/Visual Studio Code (VS Code).svg" height="45" /> &nbsp; 
-<img src="svgs/Figma.svg" height="45" /> &nbsp; 
-<img src="svgs/Adobe Photoshop.svg" height="45" /> &nbsp; 
-<img src="svgs/Adobe Illustrator.svg" height="45" /> &nbsp; 
-<img src="svgs/Adobe XD.svg" height="45" /> &nbsp; 
-<img src="svgs/Adobe Premiere Pro.svg" height="45" />
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 15px; padding: 10px;">
+  <img src="svgs/HTML5.svg" height="40" alt="HTML5" />
+  <img src="svgs/CSS3.svg" height="40" alt="CSS3" />
+  <img src="svgs/logo-javascript.svg" height="40" alt="JavaScript" />
+  <img src="svgs/logo-typescript.svg" height="40" alt="TypeScript" />
+  <img src="images/react.png" height="40" alt="React" />
+  <img src="svgs/next.js (2).svg" height="45" alt="Next.js" />
+  <img src="svgs/logo-nodejs.svg" height="45" alt="Node.js" />
+  <img src="images/Express White.png" height="35" alt="Express" />
+  <img src="svgs/GraphQL.svg" height="45" alt="GraphQL" />
+  <img src="svgs/Python.svg" height="45" alt="Python" />
+  <img src="svgs/Django.svg" height="45" alt="Django" />
+  <img src="svgs/MongoDB.svg" height="45" alt="MongoDB" />
+  <img src="svgs/PostgresSQL.svg" height="45" alt="PostgreSQL" />
+  <img src="svgs/Sequelize.svg" height="45" alt="Sequelize" />
+  <img src="svgs/Playwrite.svg" height="45" alt="Playwright" />
+  <img src="svgs/Jest.svg" height="45" alt="Jest" />
+  <img src="svgs/Git.svg" height="45" alt="Git" />
+  <img src="svgs/GitHub.svg" height="45" alt="GitHub" />
+  <img src="svgs/Docker.svg" height="50" alt="Docker" />
+  <img src="svgs/Redis.svg" height="50" alt="Redis" />
+  <img src="svgs/Kubernetes.svg" height="45" alt="Kubernetes" />
+  <img src="svgs/AWS.svg" height="45" alt="AWS" />
+  <img src="svgs/Powershell.svg" height="45" alt="PowerShell" />
+  <img src="svgs/Postman.svg" height="45" alt="Postman" />
+  <img src="svgs/Visual Studio Code (VS Code).svg" height="45" alt="VS Code" />
+  <img src="svgs/Figma.svg" height="45" alt="Figma" />
+  <img src="svgs/Adobe Photoshop.svg" height="45" alt="Photoshop" />
+  <img src="svgs/Adobe Illustrator.svg" height="45" alt="Illustrator" />
+  <img src="svgs/Adobe XD.svg" height="45" alt="Adobe XD" />
+  <img src="svgs/Adobe Premiere Pro.svg" height="45" alt="Premiere Pro" />
+</div>
 </div>
 
 ---
@@ -99,7 +101,6 @@
 ## 🧑🏻‍💻Leetcode Stats
 
 [![Leetcode stats](https://leetcard.jacoblin.cool/abdulvahabaa?theme=dark&font=source_code_pro&ext=heatmap)](https://leetcode.com/u/abdulvahabaa/)
-
 
 ---
 

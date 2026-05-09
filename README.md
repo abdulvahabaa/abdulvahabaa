@@ -19,8 +19,6 @@
 <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right">
 
 - 💻 Full-Stack Developer @ iCover
-- 👨‍🏫 Full-Stack Development Trainer @ G-Tech Education
-- 🌍 Freelance Web Developer (Scalable & Modern Web Apps)
 - 🐍 Python & Django Enthusiast
 - 🎓 BCA (Distance Mode, SGOU – Ongoing)
 - 🎨 Skilled in UI/UX & Graphic Design
